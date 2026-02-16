@@ -120,30 +120,6 @@ raman-spectroscopy-mineral-analysis/
 
 ### Using pip
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/raman-spectroscopy-mineral-analysis.git
-cd raman-spectroscopy-mineral-analysis
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Using conda
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/raman-spectroscopy-mineral-analysis.git
-cd raman-spectroscopy-mineral-analysis
-
-# Create conda environment
-conda env create -f environment.yml
-conda activate raman-analysis
-```
 
 ## 📦 Dependencies
 
@@ -256,34 +232,6 @@ This technology enables:
 - [ ] Real-time inference optimization for field deployment
 - [ ] Transfer learning for new mineral groups
 - [ ] Interactive web application for mineral analysis
-
-## 📚 Citation
-
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@software{raman_mineral_analysis_2025,
-  author = {Your Name},
-  title = {Resolving Silicate Mineral Isomorphism using 1D CNNs and NMF},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/raman-spectroscopy-mineral-analysis}
-}
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 🙏 Acknowledgments
 
